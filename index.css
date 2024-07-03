@@ -1,0 +1,12 @@
+body {
+background:linear-gradient(to left,#74aced,#fe86fe);
+}
+
+#data-container {
+margin-top: 20px;
+}
+.card {
+margin: 10px auto;
+width: 80%;
+background-color:beige;
+}
